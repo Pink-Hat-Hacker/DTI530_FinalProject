@@ -1,0 +1,505 @@
+{
+  "natural_fibers": {
+    "Merino_wool": {
+      "name": "Merino Wool",
+      "good_for": [
+        "warmth",
+        "moisture management",
+        "odor resistance",
+        "soft feel"
+      ],
+      "alternative_materials": [
+        "Wool",
+        "Alpaca Wool",
+        "Recycled Wool"
+      ],
+      "eco_score": 0.55
+    },
+    "Wool": {
+      "name": "Wool",
+      "good_for": [
+        "insulation",
+        "durability",
+        "temperature regulation"
+      ],
+      "alternative_materials": [
+        "Merino Wool",
+        "Alpaca Wool",
+        "Recycled Wool"
+      ],
+      "eco_score": 0.6
+    },
+    "Cotton": {
+      "name": "Cotton",
+      "good_for": [
+        "breathability",
+        "comfort",
+        "absorbency"
+      ],
+      "alternative_materials": [
+        "Organic Cotton",
+        "TENCEL",
+        "Hemp"
+      ],
+      "eco_score": 0.25
+    },
+    "Organic_cotton": {
+      "name": "Organic Cotton",
+      "good_for": [
+        "breathability",
+        "softness",
+        "low environmental impact"
+      ],
+      "alternative_materials": [
+        "TENCEL",
+        "Hemp",
+        "Recycled Cotton"
+      ],
+      "eco_score": 0.85
+    },
+    "Alpaca_wool": {
+      "name": "Alpaca Wool",
+      "good_for": [
+        "luxury feel",
+        "insulation",
+        "hypoallergenic comfort"
+      ],
+      "alternative_materials": [
+        "Merino Wool",
+        "Cashmere"
+      ],
+      "eco_score": 0.7
+    },
+    "TENCEL": {
+      "name": "TENCEL (Lyocell)",
+      "good_for": [
+        "breathability",
+        "softness",
+        "biodegradability"
+      ],
+      "alternative_materials": [
+        "Organic Cotton",
+        "Bamboo Viscose"
+      ],
+      "eco_score": 0.95
+    },
+    "Paper": {
+      "name": "Paper Fiber",
+      "good_for": [
+        "lightweight structure",
+        "novelty textiles"
+      ],
+      "alternative_materials": [
+        "Cellulose Fiber",
+        "TENCEL"
+      ],
+      "eco_score": 0.5
+    }
+  },
+  "synthetic_fibers": {
+    "Nylon": {
+      "name": "Nylon",
+      "good_for": [
+        "strength",
+        "abrasion resistance",
+        "stretch"
+      ],
+      "alternative_materials": [
+        "Recycled Nylon",
+        "Polyester"
+      ],
+      "eco_score": 0.15
+    },
+    "Recycled_nylon": {
+      "name": "Recycled Nylon",
+      "good_for": [
+        "durability",
+        "reduced environmental impact",
+        "stretch"
+      ],
+      "alternative_materials": [
+        "Nylon",
+        "Recycled Polyester"
+      ],
+      "eco_score": 0.65
+    },
+    "Polyester": {
+      "name": "Polyester",
+      "good_for": [
+        "durability",
+        "moisture wicking",
+        "quick drying"
+      ],
+      "alternative_materials": [
+        "Recycled Polyester",
+        "Nylon"
+      ],
+      "eco_score": 0.2
+    },
+    "Recycled_polyester": {
+      "name": "Recycled Polyester",
+      "good_for": [
+        "reduced waste",
+        "durability",
+        "moisture control"
+      ],
+      "alternative_materials": [
+        "Recycled Nylon",
+        "Organic Cotton"
+      ],
+      "eco_score": 0.7
+    },
+    "Spandex": {
+      "name": "Spandex (Elastane / Lycra)",
+      "good_for": [
+        "stretch",
+        "fit retention",
+        "freedom of movement"
+      ],
+      "alternative_materials": [
+        "Rubber",
+        "Nylon Blends"
+      ],
+      "eco_score": 0.1
+    },
+    "Polypropylene": {
+      "name": "Polypropylene",
+      "good_for": [
+        "lightweight",
+        "moisture resistance",
+        "thermal base layers"
+      ],
+      "alternative_materials": [
+        "Polyester",
+        "Nylon"
+      ],
+      "eco_score": 0.35
+    },
+    "COOLMAX_EcoMade_polyester": {
+      "name": "COOLMAX EcoMade Polyester",
+      "good_for": [
+        "moisture wicking",
+        "athletic wear",
+        "breathability"
+      ],
+      "alternative_materials": [
+        "Recycled Polyester",
+        "Nylon"
+      ],
+      "eco_score": 0.7
+    },
+    "REPREVE_polyester": {
+      "name": "REPREVE Polyester",
+      "good_for": [
+        "recycled fiber sustainability",
+        "moisture control",
+        "athletic wear"
+      ],
+      "alternative_materials": [
+        "Recycled Polyester",
+        "COOLMAX EcoMade Polyester"
+      ],
+      "eco_score": 0.8
+    },
+    "Polyurethane": {
+      "name": "Polyurethane (PU)",
+      "good_for": [
+        "coating",
+        "water resistance",
+        "flexibility"
+      ],
+      "alternative_materials": [
+        "TPU",
+        "Rubber"
+      ],
+      "eco_score": 0.3
+    },
+    "TPU": {
+      "name": "Thermoplastic Polyurethane (TPU)",
+      "good_for": [
+        "durability",
+        "stretch",
+        "water resistance"
+      ],
+      "alternative_materials": [
+        "PU",
+        "Rubber"
+      ],
+      "eco_score": 0.35
+    },
+    "ABS_plastic": {
+      "name": "ABS Plastic",
+      "good_for": [
+        "structural components",
+        "rigidity"
+      ],
+      "alternative_materials": [
+        "Recycled Plastic",
+        "Polycarbonate"
+      ],
+      "eco_score": 0.1
+    }
+  },
+  "technical_materials": {
+    "GORE_TEX": {
+      "name": "GORE-TEX",
+      "good_for": [
+        "waterproofing",
+        "breathability",
+        "outdoor gear"
+      ],
+      "alternative_materials": [
+        "eVent",
+        "Sympatex",
+        "DryVent"
+      ],
+      "eco_score": 0.2
+    },
+    "ePE_GORE_TEX": {
+      "name": "Expanded Polyethylene GORE-TEX (ePE)",
+      "good_for": [
+        "lightweight waterproofing",
+        "breathability",
+        "reduced PFC use"
+      ],
+      "alternative_materials": [
+        "GORE-TEX",
+        "AscentShell",
+        "Omni-Tech"
+      ],
+      "eco_score": 0.7
+    },
+    "AscentShell": {
+      "name": "AscentShell",
+      "good_for": [
+        "air-permeable waterproofing",
+        "stretch comfort"
+      ],
+      "alternative_materials": [
+        "GORE-TEX",
+        "DryVent"
+      ],
+      "eco_score": 0.6
+    },
+    "DryVent": {
+      "name": "DryVent Membrane",
+      "good_for": [
+        "breathable waterproofing",
+        "rain gear"
+      ],
+      "alternative_materials": [
+        "GORE-TEX",
+        "Omni-Tech"
+      ],
+      "eco_score": 0.55
+    },
+    "KEEN_DRY": {
+      "name": "KEEN.DRY Membrane",
+      "good_for": [
+        "footwear waterproofing",
+        "breathability"
+      ],
+      "alternative_materials": [
+        "GORE-TEX",
+        "B-DRY"
+      ],
+      "eco_score": 0.5
+    },
+    "Omni_Tech": {
+      "name": "Omni-Tech",
+      "good_for": [
+        "breathable waterproofing",
+        "midrange outerwear"
+      ],
+      "alternative_materials": [
+        "DryVent",
+        "GORE-TEX"
+      ],
+      "eco_score": 0.55
+    },
+    "Cosmo_membrane": {
+      "name": "Cosmo Waterproof Membrane",
+      "good_for": [
+        "waterproof protection",
+        "flexibility"
+      ],
+      "alternative_materials": [
+        "GORE-TEX",
+        "Omni-Tech"
+      ],
+      "eco_score": 0.5
+    },
+    "Phasic_LT_polyester": {
+      "name": "Phasic LT Polyester",
+      "good_for": [
+        "moisture management",
+        "base layers"
+      ],
+      "alternative_materials": [
+        "Recycled Polyester",
+        "Merino Wool"
+      ],
+      "eco_score": 0.65
+    }
+  },
+  "composite_or_other_materials": {
+    "Leather": {
+      "name": "Leather",
+      "good_for": [
+        "durability",
+        "protection",
+        "premium aesthetics"
+      ],
+      "alternative_materials": [
+        "Synthetic Leather",
+        "Recycled Leather"
+      ],
+      "eco_score": 0.2
+    },
+    "Suede": {
+      "name": "Suede Leather",
+      "good_for": [
+        "soft texture",
+        "style"
+      ],
+      "alternative_materials": [
+        "Synthetic Suede",
+        "Nubuck Leather"
+      ],
+      "eco_score": 0.2
+    },
+    "Nubuck_leather": {
+      "name": "Nubuck Leather",
+      "good_for": [
+        "durability",
+        "premium footwear"
+      ],
+      "alternative_materials": [
+        "Suede",
+        "Synthetic Leather"
+      ],
+      "eco_score": 0.2
+    },
+    "Synthetic_leather": {
+      "name": "Synthetic Leather",
+      "good_for": [
+        "water resistance",
+        "vegan alternative"
+      ],
+      "alternative_materials": [
+        "Recycled PU",
+        "Nubuck Leather"
+      ],
+      "eco_score": 0.45
+    },
+    "Rubber": {
+      "name": "Rubber",
+      "good_for": [
+        "traction",
+        "waterproof soles",
+        "shock absorption"
+      ],
+      "alternative_materials": [
+        "Recycled Rubber",
+        "TPU"
+      ],
+      "eco_score": 0.45
+    },
+    "Recycled_rubber": {
+      "name": "Recycled Rubber",
+      "good_for": [
+        "durability",
+        "reduced waste"
+      ],
+      "alternative_materials": [
+        "Rubber",
+        "TPU"
+      ],
+      "eco_score": 0.8
+    },
+    "EVA_foam": {
+      "name": "EVA Foam",
+      "good_for": [
+        "cushioning",
+        "shock absorption"
+      ],
+      "alternative_materials": [
+        "Molded EVA Foam",
+        "PU Foam"
+      ],
+      "eco_score": 0.25
+    },
+    "Kevlar": {
+      "name": "Kevlar",
+      "good_for": [
+        "abrasion resistance",
+        "reinforcement"
+      ],
+      "alternative_materials": [
+        "Ballistic Nylon",
+        "UHMWPE"
+      ],
+      "eco_score": 0.3
+    },
+    "Aluminum": {
+      "name": "Aluminum (7065)",
+      "good_for": [
+        "lightweight structure",
+        "rigidity"
+      ],
+      "alternative_materials": [
+        "Titanium",
+        "Carbon Fiber"
+      ],
+      "eco_score": 0.6
+    }
+  },
+  "treatments_and_coatings": {
+    "Polyurethane_coating": {
+      "name": "Polyurethane Coating (PU)",
+      "good_for": [
+        "waterproofing",
+        "durability"
+      ],
+      "alternative_materials": [
+        "TPU Coating",
+        "Wax Coating"
+      ],
+      "eco_score": 0.45
+    },
+    "DWR": {
+      "name": "Durable Water Repellent (DWR)",
+      "good_for": [
+        "water resistance",
+        "outdoor gear longevity"
+      ],
+      "alternative_materials": [
+        "Wax Impregnation",
+        "Silicone Treatment"
+      ],
+      "eco_score": 0.1
+    },
+    "Non_PFC_DWR": {
+      "name": "Non-PFC Durable Water Repellent",
+      "good_for": [
+        "eco-friendly waterproofing"
+      ],
+      "alternative_materials": [
+        "Wax Impregnation",
+        "Bio-based Coatings"
+      ],
+      "eco_score": 0.85
+    },
+    "FC0_DWR": {
+      "name": "FC0 Durable Water Repellent",
+      "good_for": [
+        "fluorocarbon-free water resistance"
+      ],
+      "alternative_materials": [
+        "Non-PFC DWR",
+        "Wax Treatment"
+      ],
+      "eco_score": 0.85
+    }
+  }
+}

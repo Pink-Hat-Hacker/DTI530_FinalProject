@@ -1,6 +1,6 @@
 # DTI530_FinalProject
 
-DTI | DESIGNTK 530 | I-10 ❌
+DTI | DESIGNTK 530 | I-10 ✅
 *Intention: User materials explorer offering predictions based on brands, alternative brands based on `eco_score`, and alternative materials based on `eco_score`*
 
 **Eco Score Basis**

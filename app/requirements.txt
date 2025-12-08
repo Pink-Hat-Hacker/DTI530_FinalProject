@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+torch
+scikit-learn
+streamlit
+python-dotenv

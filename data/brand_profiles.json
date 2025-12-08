@@ -1,0 +1,292 @@
+{
+  "brands": {
+    "Arms of Andes": {
+      "name": "Arms of Andes",
+      "eco-score": 0.65,
+      "avg_price": 95.0,
+      "brand-img": ["natural", "alpaca", "ethical", "sustainable", "Andes", "comfortable"]
+    },
+    "Royal Robbins": {
+      "name": "Royal Robbins",
+      "eco-score": 0.5125,
+      "avg_price": 82.73,
+      "brand-img": ["outdoor", "heritage", "travel", "eco", "casual", "durable"]
+    },
+    "Fjallraven": {
+      "name": "Fjallraven",
+      "eco-score": 0.5,
+      "avg_price": 152.5,
+      "brand-img": ["Swedish", "fox", "durable", "sustainable", "classic", "outdoors"]
+    },
+    "Smartwool": {
+      "name": "Smartwool",
+      "eco-score": 0.4669791666666666,
+      "avg_price": 22.011875,
+      "brand-img": ["merino", "comfort", "warm", "active", "eco", "performance"]
+    },
+    "On": {
+      "name": "On",
+      "eco-score": 0.4611111111111111,
+      "avg_price": 213.33333333333334,
+      "brand-img": ["Swiss", "running", "innovation", "lightweight", "design", "performance"]
+    },
+    "Mountain Equipment": {
+      "name": "Mountain Equipment",
+      "eco-score": 0.45,
+      "avg_price": 99.95,
+      "brand-img": ["mountain", "gear", "performance", "tough", "climate", "adventure"]
+    },
+    "Marmot": {
+      "name": "Marmot",
+      "eco-score": 0.45,
+      "avg_price": 48.73,
+      "brand-img": ["outdoor", "reliable", "durable", "gear", "warm", "nature"]
+    },
+    "Altra": {
+      "name": "Altra",
+      "eco-score": 0.45,
+      "avg_price": 190.0,
+      "brand-img": ["running", "footshape", "performance", "comfort", "trail", "innovation"]
+    },
+    "Saxx": {
+      "name": "Saxx",
+      "eco-score": 0.45,
+      "avg_price": 34.83,
+      "brand-img": ["underwear", "ergonomic", "soft", "supportive", "modern", "comfortable"]
+    },
+    "Snow Peak": {
+      "name": "Snow Peak",
+      "eco-score": 0.45,
+      "avg_price": 79.95,
+      "brand-img": ["Japanese", "camping", "minimalist", "design", "outdoor", "functional"]
+    },
+    "Darn Tough": {
+      "name": "Darn Tough",
+      "eco-score": 0.4333333333333333,
+      "avg_price": 23.648666666666667,
+      "brand-img": ["Vermont", "socks", "durable", "lifetime", "merino", "quality"]
+    },
+    "Farm to Feet": {
+      "name": "Farm to Feet",
+      "eco-score": 0.4333333333333333,
+      "avg_price": 14.73,
+      "brand-img": ["American", "farm", "merino", "sustainable", "local", "crafted"]
+    },
+    "Woolrich": {
+      "name": "Woolrich",
+      "eco-score": 0.4333333333333333,
+      "avg_price": 18.23,
+      "brand-img": ["heritage", "wool", "classic", "comfort", "outdoors", "style"]
+    },
+    "Hot Chillys": {
+      "name": "Hot Chillys",
+      "eco-score": 0.4333333333333333,
+      "avg_price": 44.73,
+      "brand-img": ["base", "layer", "comfort", "warmth", "ski", "adventure"]
+    },
+    "Cotopaxi": {
+      "name": "Cotopaxi",
+      "eco-score": 0.41,
+      "avg_price": 37.298,
+      "brand-img": ["colorful", "social", "impact", "sustainable", "adventure", "outdoor"]
+    },
+    "Icebreaker": {
+      "name": "Icebreaker",
+      "eco-score": 0.4041666666666666,
+      "avg_price": 15.896666666666667,
+      "brand-img": ["merino", "natural", "performance", "ethical", "soft", "sustainable"]
+    },
+    "Patagonia": {
+      "name": "Patagonia",
+      "eco-score": 0.375,
+      "avg_price": 50.7325,
+      "brand-img": ["ethical", "activism", "sustainable", "durable", "outdoor", "regenerative"]
+    },
+    "The North Face": {
+      "name": "The North Face",
+      "eco-score": 0.37083333333333335,
+      "avg_price": 74.5311111111111,
+      "brand-img": ["exploration", "innovation", "durability", "outdoor", "climbing", "legacy"]
+    },
+    "prAna": {
+      "name": "prAna",
+      "eco-score": 0.35,
+      "avg_price": 84.57666666666667,
+      "brand-img": ["yoga", "ethically", "fashion", "outdoor", "comfort", "sustainable"]
+    },
+    "humangear": {
+      "name": "humangear",
+      "eco-score": 0.35,
+      "avg_price": 15.95,
+      "brand-img": ["travel", "utility", "durable", "compact", "reusable", "eco"]
+    },
+    "Injinji": {
+      "name": "Injinji",
+      "eco-score": 0.35,
+      "avg_price": 12.0,
+      "brand-img": ["toe", "socks", "performance", "comfort", "run", "fit"]
+    },
+    "Outdoor Research": {
+      "name": "Outdoor Research",
+      "eco-score": 0.337,
+      "avg_price": 137.678,
+      "brand-img": ["research", "innovation", "outdoor", "gear", "mountain", "durable"]
+    },
+    "Timberland": {
+      "name": "Timberland",
+      "eco-score": 0.325,
+      "avg_price": 93.23,
+      "brand-img": ["boots", "heritage", "urban", "outdoor", "durable", "craftsmanship"]
+    },
+    "Vuori": {
+      "name": "Vuori",
+      "eco-score": 0.3,
+      "avg_price": 104.965,
+      "brand-img": ["activewear", "comfort", "California", "lifestyle", "performance", "modern"]
+    },
+    "REI Co-op": {
+      "name": "REI Co-op",
+      "eco-score": 0.292962962962963,
+      "avg_price": 55.69109375,
+      "brand-img": ["community", "outdoor", "ethical", "sustainability", "cooperative", "gear"]
+    },
+    "La Sportiva": {
+      "name": "La Sportiva",
+      "eco-score": 0.285,
+      "avg_price": 194.746,
+      "brand-img": ["Italian", "climbing", "mountain", "technical", "boots", "performance"]
+    },
+    "Asolo": {
+      "name": "Asolo",
+      "eco-score": 0.275,
+      "avg_price": 183.91,
+      "brand-img": ["Italian", "hiking", "boots", "durable", "technical", "heritage"]
+    },
+    "Arc'teryx": {
+      "name": "Arc'teryx",
+      "eco-score": 0.264375,
+      "avg_price": 291.85375,
+      "brand-img": ["technical", "innovative", "mountain", "design", "performance", "premium"]
+    },
+    "Merrell": {
+      "name": "Merrell",
+      "eco-score": 0.25625,
+      "avg_price": 124.5475,
+      "brand-img": ["outdoor", "hiking", "comfort", "shoes", "trail", "reliable"]
+    },
+    "Columbia": {
+      "name": "Columbia",
+      "eco-score": 0.25394736842105264,
+      "avg_price": 72.3615,
+      "brand-img": ["adventure", "global", "outdoor", "innovation", "value", "durability"]
+    },
+    "Oboz": {
+      "name": "Oboz",
+      "eco-score": 0.25,
+      "avg_price": 200.0,
+      "brand-img": ["Bozeman", "trees", "hiking", "trail", "eco", "durable"]
+    },
+    "Carolina Mfg.": {
+      "name": "Carolina Mfg.",
+      "eco-score": 0.25,
+      "avg_price": 6.0,
+      "brand-img": ["bandanas", "cotton", "colorful", "heritage", "USA", "value"]
+    },
+    "Black Diamond": {
+      "name": "Black Diamond",
+      "eco-score": 0.25,
+      "avg_price": 115.84,
+      "brand-img": ["climbing", "mountain", "gear", "innovation", "precision", "adventure"]
+    },
+    "KUHL": {
+      "name": "KUHL",
+      "eco-score": 0.20714285714285713,
+      "avg_price": 101.83285714285715,
+      "brand-img": ["mountain", "style", "performance", "freedom", "rugged", "comfort"]
+    },
+    "Salomon": {
+      "name": "Salomon",
+      "eco-score": 0.2,
+      "avg_price": 180.0,
+      "brand-img": ["trail", "running", "ski", "technical", "innovation", "performance"]
+    },
+    "adidas": {
+      "name": "adidas",
+      "eco-score": 0.2,
+      "avg_price": 109.83,
+      "brand-img": ["sport", "global", "design", "innovation", "performance", "style"]
+    },
+    "Keen": {
+      "name": "Keen",
+      "eco-score": 0.2,
+      "avg_price": 138.365,
+      "brand-img": ["sandals", "comfort", "durable", "trail", "eco", "practical"]
+    },
+    "Salewa": {
+      "name": "Salewa",
+      "eco-score": 0.2,
+      "avg_price": 125.73,
+      "brand-img": ["alpine", "mountain", "innovation", "heritage", "Italy", "performance"]
+    },
+    "Buff": {
+      "name": "Buff",
+      "eco-score": 0.2,
+      "avg_price": 19.0,
+      "brand-img": ["headwear", "versatile", "outdoor", "eco", "recycled", "comfortable"]
+    },
+    "Scarpa": {
+      "name": "Scarpa",
+      "eco-score": 0.2,
+      "avg_price": 169.0,
+      "brand-img": ["Italian", "climbing", "boots", "performance", "mountain", "durable"]
+    },
+    "HART Outdoor": {
+      "name": "HART Outdoor",
+      "eco-score": 0.2,
+      "avg_price": 15.95,
+      "brand-img": ["safety", "outdoor", "firstaid", "reliable", "compact", "practical"]
+    },
+    "Mammut": {
+      "name": "Mammut",
+      "eco-score": 0.2,
+      "avg_price": 66.73,
+      "brand-img": ["Swiss", "mountain", "gear", "innovative", "performance", "durable"]
+    },
+    "Aku": {
+      "name": "Aku",
+      "eco-score": 0.2,
+      "avg_price": 200.0,
+      "brand-img": ["Italian", "handcrafted", "hiking", "boots", "responsible", "rugged"]
+    },
+    "Sunday Afternoons": {
+      "name": "Sunday Afternoons",
+      "eco-score": 0.175,
+      "avg_price": 50.0,
+      "brand-img": ["hats", "sun", "protection", "lightweight", "colorful", "travel"]
+    },
+    "REI Co-op (alt)": {
+      "name": "REI Co-op",
+      "eco-score": 0.175,
+      "avg_price": 99.95,
+      "brand-img": ["outdoor", "cooperative", "community", "gear", "eco", "sustainable"]
+    },
+    "Free Country": {
+      "name": "Free Country",
+      "eco-score": 0.175,
+      "avg_price": 49.73,
+      "brand-img": ["outerwear", "affordable", "active", "casual", "comfort", "freedom"]
+    },
+    "Mountain Hardwear": {
+      "name": "Mountain Hardwear",
+      "eco-score": 0.15,
+      "avg_price": 61.23,
+      "brand-img": ["technical", "gear", "mountain", "innovation", "cold", "durable"]
+    },
+    "Whistles for LIFE": {
+      "name": "Whistles for LIFE",
+      "eco-score": 0.1,
+      "avg_price": 8.95,
+      "brand-img": ["safety", "rescue", "bright", "emergency", "sound", "compact"]
+    }
+  }
+}

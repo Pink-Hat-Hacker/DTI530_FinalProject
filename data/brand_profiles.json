@@ -4,67 +4,67 @@
       "name": "Arms of Andes",
       "eco-score": 0.65,
       "avg_price": 95.0,
-      "brand-img": ["natural", "alpaca", "ethical", "sustainable", "Andes", "comfortable"]
+      "brand-img": ["natural", "alpaca", "ethical", "sustainable", "Andes", "comfortable", "high-performance"]
     },
     "Royal Robbins": {
       "name": "Royal Robbins",
       "eco-score": 0.5125,
       "avg_price": 82.73,
-      "brand-img": ["outdoor", "heritage", "travel", "eco", "casual", "durable"]
+      "brand-img": ["outdoor", "heritage", "travel", "eco", "casual", "durable", "comfortable"]
     },
     "Fjallraven": {
       "name": "Fjallraven",
       "eco-score": 0.5,
       "avg_price": 152.5,
-      "brand-img": ["Swedish", "fox", "durable", "sustainable", "classic", "outdoors"]
+      "brand-img": ["Swedish", "fox", "durable", "sustainable", "classic", "outdoors", "equipment"]
     },
     "Smartwool": {
       "name": "Smartwool",
       "eco-score": 0.4669791666666666,
       "avg_price": 22.011875,
-      "brand-img": ["merino", "comfort", "warm", "active", "eco", "performance"]
+      "brand-img": ["merino", "comfort", "warm", "active", "eco", "performance", "innovative"]
     },
     "On": {
       "name": "On",
       "eco-score": 0.4611111111111111,
       "avg_price": 213.33333333333334,
-      "brand-img": ["Swiss", "running", "innovation", "lightweight", "design", "performance"]
+      "brand-img": ["Swiss", "running", "innovative", "lightweight", "design", "performance", "minimalist"]
     },
     "Mountain Equipment": {
       "name": "Mountain Equipment",
       "eco-score": 0.45,
       "avg_price": 99.95,
-      "brand-img": ["mountain", "gear", "performance", "tough", "climate", "adventure"]
+      "brand-img": ["mountain", "gear", "performance", "tough", "climate", "adventure", "technical"]
     },
     "Marmot": {
       "name": "Marmot",
       "eco-score": 0.45,
       "avg_price": 48.73,
-      "brand-img": ["outdoor", "reliable", "durable", "gear", "warm", "nature"]
+      "brand-img": ["outdoor", "reliable", "durable", "gear", "warm", "nature", "performance"]
     },
     "Altra": {
       "name": "Altra",
       "eco-score": 0.45,
       "avg_price": 190.0,
-      "brand-img": ["running", "footshape", "performance", "comfort", "trail", "innovation"]
+      "brand-img": ["running", "footshape", "performance", "comfort", "trail", "innovative", "engineering"]
     },
     "Saxx": {
       "name": "Saxx",
       "eco-score": 0.45,
       "avg_price": 34.83,
-      "brand-img": ["underwear", "ergonomic", "soft", "supportive", "modern", "comfortable"]
+      "brand-img": ["underwear", "ergonomic", "soft", "supportive", "modern", "comfortable", "freedom"]
     },
     "Snow Peak": {
       "name": "Snow Peak",
       "eco-score": 0.45,
       "avg_price": 79.95,
-      "brand-img": ["Japanese", "camping", "minimalist", "design", "outdoor", "functional"]
+      "brand-img": ["Japanese", "camping", "minimalist", "design", "outdoor", "functional", "style"]
     },
     "Darn Tough": {
       "name": "Darn Tough",
       "eco-score": 0.4333333333333333,
       "avg_price": 23.648666666666667,
-      "brand-img": ["Vermont", "socks", "durable", "lifetime", "merino", "quality"]
+      "brand-img": ["Vermont", "socks", "durable", "lifetime", "merino", "quality", "dense", "American"]
     },
     "Farm to Feet": {
       "name": "Farm to Feet",

@@ -7,3 +7,5 @@ torch
 scikit-learn
 streamlit
 python-dotenv
+plotly
+openai

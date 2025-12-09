@@ -51,7 +51,7 @@ extra_input = st.text_area("Additional Description - optional (Trip details, bud
 # LITELLM CLIENT CONFIG
 # ----------------------------
 token = os.getenv("LITELLM_TOKEN")
-client = OpenAI(api_key=token, base_url="https://.oit.duke.edu/v1")
+client = OpenAI(api_key=token, base_url="https://litellm.oit.duke.edu/v1")
 SYSTEM_PROMPT = (
     "You are a material scientist that is an expert in outdoor gear.\n\n"
     "Knowledge sources:\n"

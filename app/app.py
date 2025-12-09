@@ -10,22 +10,6 @@ load_dotenv()
 # Page Setup
 # ----------------------------
 st.set_page_config(page_title="Naked", layout="wide")
-st.markdown(
-    """
-    <style>
-        .stApp {
-        background: #FFFBEB;
-        }
-        h1, h2, h3, h4, h5, h6, p {
-            color: #48601C;
-        }
-        button p {
-            color: #FFFFFF;
-        }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
 st.title("Naked: Outdoor Brand Suggestion Dashboard")
 
 # ----------------------------
